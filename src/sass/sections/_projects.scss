@@ -47,6 +47,9 @@
       & p > a {
         color: $secondary-color;
       }
+      & ul {
+        font-size: 1.6rem;
+      }
     }
 
     &__image {
